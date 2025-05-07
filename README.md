@@ -1,5 +1,7 @@
 # 🧭 Büyüyünce Ne Olsam?
 
+boscaler.com üzerinden siteyi deneyimleyebilirsiniz.
+
 Google Gemini 2.5 Flash modelini kullanarak hobileriniz, ilgi alanlarınız ve güçlü yönlerinize göre **3 özelleştirilmiş kariyer yolu** öneren, tamamen **statik** (HTML + CSS + JS) bir web uygulaması. Modern **glass‑dark** arayüzü ve tek tıkta dağıtılabilir yapısıyla öne çıkar.
 
 ![screenshot](./Assets/logo.png)
